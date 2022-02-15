@@ -9,7 +9,7 @@ How to use this template
 
 This is the first version of the Getquanty script template for Google Tag Manager. You need to be a Getquanty/Livequanty user to use this template.
 
-1. Download the package here https://github.com/Getquanty/gtm-tpl-zapier
+1. Download the package here https://github.com/Getquanty/getquanty-gtm-tpl-zapier
 2. Log in to Google Tag Manager https://tagmanager.google.com/
 3. Go to the Templates menu
 4. Create a new template
